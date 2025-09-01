@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57d1fd&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+YOUR+NAME+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+NICOLE+FRANÇA+MARTINS+:%29)](https://git.io/typing-svg)
 
 <div align="center" />
 
@@ -8,7 +8,7 @@
 
 💻 Full-Stack Developer @ **Unimed Palmas (TO, BR)**  
 🚀 Passionate about solving problems with code  
-📊 Experience in data analytics and process automation  
+📊 Experience in data analytics and Full Stack developement
 
 I’m a proactive developer with experience in **PHP, TypeScript, C#, Python, JavaScript, MySQL, CSS, and Java**.  
 I work with frameworks such as **Laravel, React (Vite), React Native, Next.js, and Node.js**, and I’ve also worked with **KNIME** and data analytics.  
@@ -19,10 +19,10 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 
 ### Contact
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:nicolefranca.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-5fbfe2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/nicole-frança-martins" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-5fbfe2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
@@ -38,7 +38,7 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 
 #### Frameworks:
 ![Laravel](https://img.shields.io/badge/-Laravel-5fbfe2?style=for-the-badge&logo=laravel&labelColor=0D1117&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-5fbfe2?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
+![React Vite](https://img.shields.io/badge/-React-5fbfe2?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-5fbfe2?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-5fbfe2.svg?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&logoColor=white)&nbsp;
 
