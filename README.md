@@ -7,13 +7,15 @@
 # About Me
 
 💻 Full-Stack Developer @ **Unimed Palmas (TO, BR)**  
-🚀 Passionate about solving problems with code  
-📊 Experience in data analytics and Full Stack developement
+🚀 Passionate about solving problems with code 
+📊 Experience in Software Development and Projects
 
-I’m a proactive developer with experience in **PHP, TypeScript, C#, Python, JavaScript, MySQL, CSS, and Java**.  
-I work with frameworks such as **Laravel, React (Vite), React Native, Next.js, and Node.js**, and I’ve also worked with **KNIME** and data analytics.  
+I’m a proactive developer with experience in PHP, TypeScript, C#, Python, JavaScript, MySQL, CSS, and Java.
+I work with frameworks such as Laravel, Docker, React (Vite), React Native, Next.js and Node.js.
+I’ve also worked with FastAPI, MongoDB, KNIME, Data Analytics, AI and Machine Learning, Computer Networks, Software Project Management (including Project Analyst and Project Management Practices), Systems Security, Software Testing, DevOps, and Agile Methodologies (Scrum).
+I have a strong professional interest in Artificial Intelligence, Machine Learning, and Security Systems, and I am dedicated to applying these technologies to deliver innovative, secure, and efficient solutions.
 
-I’m constantly learning, exploring new technologies, and improving my skills to build scalable, efficient solutions.
+I’m constantly learning, exploring new technologies, and improving my skills to build scalable, efficient, and secure solutions.
 
 ---
 
@@ -35,12 +37,15 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 ![TypeScript](https://img.shields.io/badge/-TypeScript-5fbfe2?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-5fbfe2?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-5fbfe2?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-5fbfe2?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-5fbfe2?style=for-the-badge&logo=mongodb&labelColor=0D1117&logoColor=white)&nbsp;
 
-#### Frameworks:
+#### Frameworks / Tools:
 ![Laravel](https://img.shields.io/badge/-Laravel-5fbfe2?style=for-the-badge&logo=laravel&labelColor=0D1117&logoColor=white)&nbsp;
 ![React Vite](https://img.shields.io/badge/-React-5fbfe2?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-5fbfe2?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
 ![Next.js](https://img.shields.io/badge/Next.js-5fbfe2.svg?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-5fbfe2?style=for-the-badge&logo=fastapi&labelColor=0D1117&logoColor=white)&nbsp;
 
 #### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-5fbfe2?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)&nbsp;
