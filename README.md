@@ -22,7 +22,7 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 <a href="mailto:nicolefranca.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-5fbfe2?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/nicole-frança-martins" target="_blank">
+<a href="https://www.linkedin.com/in/nicole-fran%C3%A7a-martins-137063324/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-5fbfe2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
 
