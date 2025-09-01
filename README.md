@@ -34,9 +34,11 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 
 #### Main Stack:
 ![PHP](https://img.shields.io/badge/PHP-5fbfe2?logo=php&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-5fbfe2?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-5fbfe2?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-5fbfe2?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-5fbfe2?logo=c-sharp&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
+![Python](https://img.shields.io/badge/-Python-5fbfe2?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-5fbfe2?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-5fbfe2?logo=javascript&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-5fbfe2?style=for-the-badge&logo=docker&labelColor=0D1117&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-5fbfe2?style=for-the-badge&logo=mongodb&labelColor=0D1117&logoColor=white)&nbsp;
 
