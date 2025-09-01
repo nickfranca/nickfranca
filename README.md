@@ -12,7 +12,7 @@
 
 I’m a proactive developer with experience in PHP, TypeScript, C#, Python, JavaScript, MySQL, CSS, and Java.
 I work with frameworks such as Laravel, Docker, React (Vite), React Native, Next.js and Node.js.
-I’ve also worked with FastAPI, MongoDB, KNIME, Data Analytics, AI and Machine Learning, Computer Networks, Software Project Management (including Project Analyst and Project Management Practices), Systems Security, Software Testing, DevOps, and Agile Methodologies (Scrum).
+I’ve also worked with FastAPI, MongoDB, Firebase, Supabase, Postgres, KNIME, Data Analytics, AI and Machine Learning, Computer Networks, Software Project Management (including Project Analyst and Project Management Practices), Systems Security, Software Testing, DevOps, and Agile Methodologies (Scrum).
 I have a strong professional interest in Artificial Intelligence, Machine Learning, and Security Systems, and I am dedicated to applying these technologies to deliver innovative, secure, and efficient solutions.
 
 I’m constantly learning, exploring new technologies, and improving my skills to build scalable, efficient, and secure solutions.
@@ -35,7 +35,7 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 #### Main Stack:
 ![PHP](https://img.shields.io/badge/PHP-5fbfe2?logo=php&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-5fbfe2?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-5fbfe2?logo=c-sharp&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
+![C#](https://img.shields.io/badge/C%23-5fbfe2?logo=csharp&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-5fbfe2?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-5fbfe2?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-5fbfe2?logo=javascript&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
@@ -52,6 +52,9 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 #### Databases:
 ![MySQL](https://img.shields.io/badge/-MySQL-5fbfe2?style=for-the-badge&logo=mysql&labelColor=0D1117&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-5fbfe2?style=for-the-badge&logo=sqlite&labelColor=0D1117&logoColor=white)&nbsp;
+![Supabase](https://img.shields.io/badge/Supabase-5fbfe2?logo=supabase&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5fbfe2?logo=postgresql&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-5fbfe2?logo=firebase&labelColor=0D1117&logoColor=white&style=for-the-badge)&nbsp;
 
 ---
 
