@@ -60,9 +60,9 @@ I’m constantly learning, exploring new technologies, and improving my skills t
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=dark&hide_border=true&border_radius=8&background=30708E&fire=5fbfe2&stroke=5fbfe2&currStreakNum=5fbfe2&sideNums=5fbfe2&currStreakLabel=5fbfe2&sideLabels=5fbfe2&dates=5fbfe2&ring=5fbfe2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nickfranca&theme=dark&hide_border=true&border_radius=8&background=30708E&fire=5fbfe2&stroke=5fbfe2&currStreakNum=5fbfe2&sideNums=5fbfe2&currStreakLabel=5fbfe2&sideLabels=5fbfe2&dates=5fbfe2&ring=5fbfe2)](https://git.io/streak-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&title_color=5fbfe2&text_color=434d58&icon_color=5fbfe2&border_color=e4e2e2&bg_color=00000000&hide_border=true&border_radius=8&card_width=450&card_height=200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nickfranca&show_icons=true&theme=transparent&title_color=5fbfe2&text_color=434d58&icon_color=5fbfe2&border_color=e4e2e2&bg_color=00000000&hide_border=true&border_radius=8&card_width=450&card_height=200"/>
 
 ---
 
